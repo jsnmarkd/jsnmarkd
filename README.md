@@ -5,11 +5,13 @@
 
 <h3 align="left">As of April 24th 2023</h3>
 
+- 🌍 I'm based in Montreal, Canada
+
 - 🔭 I’m currently working on **my personal portfolio**
 
 - 🌱 I’m currently learning **Three.js**
 
-- 📝 I'm currently taking this course [https://threejs-journey.com/](https://threejs-journey.com/)
+- 📝 I'm currently taking this course [threejs-journey](https://threejs-journey.com/)
 
 - 📫 How to reach me **jmarkd04@gmail.com**
 
