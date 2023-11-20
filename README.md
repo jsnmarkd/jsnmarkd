@@ -3,11 +3,11 @@
 
 - 🌍 I'm based in Montreal, Canada
 
-- 🔭 Visit **[my personal portfolio](https://jason-divinagracia.netlify.app/)**
+- 🔭 Visit my personal **[portfolio](https://jason-divinagracia.netlify.app/)**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently studying more **Data Structures & Algorithm**
 
-- 📝 I'm currently taking this course [threejs-journey](https://threejs-journey.com/)
+- 📝 I'm currently going through **LeetCode 75** and **Neetcode Roadmap**
 
 - 📫 How to reach me **jmarkd04@gmail.com**
 
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/jasondjsix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jasondjsix" height="30" width="40" /></a>
 </p>
 
-### Skills
+### Skills:
 ![skills_readme](https://github.com/jsnmarkd/jsnmarkd/assets/114870725/5757998c-40f3-40d5-88cd-4008f3f70c3d)
 
 ### GitHub Stats
