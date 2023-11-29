@@ -5,9 +5,9 @@
 
 - 🔭 Visit my personal **[portfolio](https://jason-divinagracia.netlify.app/)**
 
-- 🌱 I’m currently studying more **Data Structures & Algorithm** and learning **ServiceNow**
+- 🌱 I’m currently studying more **Data Structures & Algorithm**
 
-- 📝 I'm currently going through **LeetCode 75**, **Neetcode Roadmap** and **[ServiceNow](https://nowlearning.servicenow.com/lxp/en/pages/journey-overview?id=journey_overview&journey_id=cbdb13f91b5aa5d013f9a6c1b24bcb44)**
+- 📝 I'm currently going through **LeetCode 75**, **Neetcode Roadmap**
 
 - 📫 How to reach me **jmarkd04@gmail.com**
 
